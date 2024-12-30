@@ -27,3 +27,6 @@ Stormy: Weather value < 200
 
 ## Requirements
 - Python 3.x
+
+## Updates
+- [30.12.24]: Added a code which takes input from a file.
